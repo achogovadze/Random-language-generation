@@ -1,4 +1,3 @@
-#Random language generation using models of English text
 In the past few decades, computers have revolutionized student life. In addition to providing no end of
 entertainment and distractions, computers also have also facilitated much productive student work.
 However, one important area of student labor that has been painfully neglected is the task of filling up
